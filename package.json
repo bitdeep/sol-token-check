@@ -1,0 +1,23 @@
+{
+  "name": "sol-token-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitdeep:bitdeep/sol-token-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@project-serum/serum": "^0.13.60",
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.30.2",
+    "axios": "^0.24.0",
+    "coingecko-api": "^1.0.10",
+    "dotenv": "^10.0.0"
+  }
+}

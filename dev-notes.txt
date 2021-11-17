@@ -1,0 +1,4 @@
+console.log('RUNNODE_API_KEY', process.env.RUNNODE_API_KEY);
+const headers = {
+    'apiKey': process.env.RUNNODE_API_KEY
+};
